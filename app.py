@@ -86,7 +86,7 @@ Includes:
 """)
 
 st.sidebar.info("""
-Group 4 - LC01
+Group 5 - LC01
 
 1. Samuel Christoff
 2. Jovin Prasetia Willim
